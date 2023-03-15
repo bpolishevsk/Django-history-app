@@ -99,24 +99,3 @@ Install django-pghistory with::
 
 After this, add ``pghistory`` and ``pgtrigger`` to the ``INSTALLED_APPS``
 setting of your Django project.
-
-Contributing Guide
-==================
-
-For information on setting up django-pghistory for development and
-contributing changes, view `CONTRIBUTING.rst <CONTRIBUTING.rst>`_.
-
-Primary Authors
-===============
-
-- @wesleykendall (Wes Kendall, wesleykendall@protonmail.com)
-
-Other Contributors
-==================
-
-- @shivananda-sahu
-- @asucrews
-- @Azurency
-- @dracos
-- @adamchainz
-- @eeriksp
